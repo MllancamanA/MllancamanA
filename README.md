@@ -39,8 +39,8 @@ Con una sólida experiencia en el desarrollo de proyectos que combinan tecnolog�
 
 ## 📫 Conéctate conmigo
 
-- 💼 [LinkedIn](#)  
-- 📂 [GitHub](#)  
-- ✉️ [Email](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mirta-llancaman-7315a485/)  
+- 📂 [GitHub](https://github.com/MllancamanA/)  
+- ✉️ [Email](mirta.llancaman@gmail.com)  
 
 ¡Estoy siempre abierta a nuevas oportunidades y colaboraciones!
